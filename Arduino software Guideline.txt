@@ -1,0 +1,24 @@
+Arduino Setup
+Temperature Controll Fan
+#1st Code Check LCD   Address
+Open LCD_SCanner.ino File with Arduino Software 
+Check Port-> Arduino Uno
+go to Sketch->Include Library->Add Zip library-> select Download Arduino-LiquidCrystal-I2C-library-master.Zip file
+Run This program and you got your I2C device adresses. Note down this addresses .
+example (0x27)
+
+#2nd Code
+Open Code_Temp_Ctrl_Emandir.ino File with Arduino Software
+Check Port-> Arduino Uno
+go to Sketch->include Library->Manage Library->ADAFRUIT UNIFIED SENSOR(install)
+go to Sketch->include Library->Manage Library->DHT SENSOR LIBRARY(install) 
+
+
+#3RD Process
+18/19 no line you see this Type code 
+"LiquidCrystal_I2C lcd(0x27 , 16, 2) " here paste your Note down lcd device adress replace "0x27" paster your l2C  device adress 
+
+RUN program (uploading Successfully)
+
+
+
