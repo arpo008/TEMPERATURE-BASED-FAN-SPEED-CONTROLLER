@@ -57,6 +57,9 @@ To create a smart cooling system that:
 - Replace the I2C address if needed:
   ```cpp
   LiquidCrystal_I2C lcd(0x27, 16, 2);
+ 
+ -also follow This
+ - [Arduino Software Guideline](Arduino%20software%20Guideline.txt)
 
 
 ## Circuit Diagram
@@ -94,3 +97,5 @@ To create a smart cooling system that:
 ### SHOUMIK SARKAR
 ### MD. FARHADUL HASAN NAYON
 
+-Full Project Presentation
+- [Project Presentation (PDF)](Project%20Presentation.pdf)
