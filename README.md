@@ -59,6 +59,34 @@ To create a smart cooling system that:
   LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 
+## Circuit Diagram
+![Circuit Diagram](CircuitDiagram.jpg)
+
+## Project Snapshot
+![Project Image](project.jpg)
+
+## Equipment
+- Arduino UNO  
+  ![Arduino UNO](Arduino_Uno_R3.jpg)
+
+- LCD 16x2  
+  ![LCD 16x2](16X2_LCD.jpg)
+
+- L298N Motor Driver  
+  ![L298N](L298N_Motor_Driver.png)
+
+  - DHT11 Temperature Sensor
+  ![DHT11 Temp Sensor](DHT11_Temp_Sensor.jpg)
+
+- DC MOTOR  
+  ![DC MOTOR](DC_MOTOR.jpg)
+
+- Cable  
+  ![Cable](Cable.jpg)
+
+
+- Wire 
+![Wire](Wire.jpg)
 
 
 
