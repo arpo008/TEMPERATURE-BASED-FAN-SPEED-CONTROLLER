@@ -75,18 +75,22 @@ To create a smart cooling system that:
 - L298N Motor Driver  
   ![L298N](L298N_Motor_Driver.png)
 
-  - DHT11 Temperature Sensor
+- DHT11 Temperature Sensor
   ![DHT11 Temp Sensor](DHT11_Temp_Sensor.jpg)
 
 - DC MOTOR  
-  ![DC MOTOR](DC_MOTOR.jpg)
+  ![DC MOTOR](DC_Motor.jpg)
 
 - Cable  
   ![Cable](Cable.jpg)
-
 
 - Wire 
 ![Wire](Wire.jpg)
 
 
+## GROUP MEMBER
+
+### ARPO ROY
+### SHOUMIK SARKAR
+### MD. FARHADUL HASAN NAYON
 
