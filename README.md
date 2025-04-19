@@ -57,3 +57,35 @@ To create a smart cooling system that:
 - Replace the I2C address if needed:
   ```cpp
   LiquidCrystal_I2C lcd(0x27, 16, 2);
+
+
+
+
+## Circuit Diagram
+![Circuit Diagram](CircuitDiagram.jpg)
+
+## Project Snapshot
+![Project Image](project.jpg)
+
+## Equipment
+- Arduino UNO  
+  ![Arduino UNO](Arduino-Uno-R3)
+
+- LCD 16x2  
+  ![LCD 16x2](16X2-LCD)
+
+- L298N Motor Driver  
+  ![L298N](L298N_Motor_Driver.png)
+
+  - DHT11 Temperature Sensor
+  ![DHT11 Temp Sensor](DHT11_Temp_Sensor.jpg)
+
+
+- Cable  
+  ![Cable](Cable.jpg)
+
+
+- Wire 
+![Wire](Wire.jpg)
+
+
